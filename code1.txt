@@ -4,3 +4,5 @@
     return html.format(name=os.getenv('NAME', "world"), hostname=socket.gethostname(), visits=visits)
 
 Please change the interface for payment gateway
+
+new changes applied
